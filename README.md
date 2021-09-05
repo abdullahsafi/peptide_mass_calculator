@@ -8,5 +8,6 @@ To run the program: `python3 peptide_mass_calculator.py`
 
 Input a peptide: `Peptide Sequence: TKPHVNVGTIGHVDHGK`
 
-and the output will be:  `1778.0037 Da`
+Number of decimal places: `2`
 
+The mass of the peptide sequence is: `1778.00 Da`
